@@ -6,3 +6,6 @@ body{
 body h1{
     font-size: 34px;
 }
+#container{
+    text-align: center;
+}
