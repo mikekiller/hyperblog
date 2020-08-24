@@ -9,3 +9,7 @@ body h1{
 #container{
     text-align: center;
 }
+.body_container{
+    margin: 0 auto;
+    width: 500px;
+}
