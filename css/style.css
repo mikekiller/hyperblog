@@ -1,6 +1,6 @@
 body{
-    background: blueviolet;
-    color: black;
+    background: #333;
+    color: whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
 body h1{
@@ -8,6 +8,20 @@ body h1{
 }
 #container{
     text-align: center;
+    background: #e7a61a;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+img {
+    width: 50px;
+    height: 50px;
 }
 .body_container{
     margin: 0 auto;
