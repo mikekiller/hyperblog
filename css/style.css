@@ -40,6 +40,12 @@ footer{
     align-items: center;
     justify-content: space-around;
 }
+.header-img{
+    display: flex;
+    width: 500px;
+    height: 180px;
+    background: transparent;
+}
 #img-container{
     background-image: url('https://www.instagram.com/static/images/web/mobile_nav_type_logo-2x.png/1b47f9d0e595.png');
     width: 250px;
