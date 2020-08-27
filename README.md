@@ -14,3 +14,5 @@ Caracteristicas:
 Creado por el increible mike vargas dulon
 
 segundo commit para probar el check-berry
+
+incluye ejemplos para el segundo commit
