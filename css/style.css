@@ -31,9 +31,13 @@ footer{
     width: 80%;
     margin: 0 auto;
 
+    background-color: #e7a61a;
+
     box-shadow: webkit-box-shadow: -11px 10px 19px 3px rgba(0,0,0,0.75);
     -moz-box-shadow: -11px 10px 19px 3px rgba(0,0,0,0.75);
     box-shadow: -11px 10px 19px 3px rgba(0,0,0,0.75);
+
+    
 }
 .wrapper{
     display: flex;
