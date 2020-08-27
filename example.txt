@@ -16,3 +16,6 @@ tomorrow we will see about the life of work
 
 
 primer ejemplo con cherry pick y stash 
+
+
+second commit with example to see cherry-pick command
